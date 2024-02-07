@@ -26,7 +26,7 @@
 // import logo from './logo.svg';
 import "../src/App.css"
 import React from 'react';
-import VideoPlayer from "./VideoPlayer";
+import VideoPlayer from "./VideoPlayer/video player";
 
 ///react project..........................
 
